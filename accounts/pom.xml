@@ -103,7 +103,7 @@
 				<version>3.4.4</version>
 				<configuration>
 					<to>
-						<image>luv2codes/${project.artifactId}:s7</image>
+						<image>luv2codes/${project.artifactId}:s2</image>
 					</to>
 				</configuration>
 			</plugin>
